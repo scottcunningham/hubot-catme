@@ -1,0 +1,24 @@
+{
+  "name": "hubot-catme",
+  "version": "0.0.1",
+  "description": "Hubot script to fetch cat pictures.",
+  "main": "catme.coffee",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scottcunningham/hubot-catme.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "cats"
+  ],
+  "dependencies": {},
+  "author": "Scott Cunningham <scottcunningham@users.noreply.github.com>",
+  "bugs": {
+    "url": "https://github.com/scottcunningham/hubot-catme/issues"
+  },
+  "homepage": "https://github.com/scottcunningham/hubot-catme",
+  "devDependencies": {},
+  "license": "GPLv3"
+}
