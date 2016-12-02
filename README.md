@@ -1,7 +1,7 @@
-hubot-australia
+hubot-catme
 ===================
 
-Use Hubot to convert English to Australian.
+Use Hubot show you pictures of cats.
 
 ## Usage
 
